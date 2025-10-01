@@ -1269,3 +1269,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.01-12.25.41:392][818]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
 [2025.10.01-12.25.41:445][819]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
 [2025.10.01-12.25.48:183][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.01-12.27.05:483][ 56]LogDerivedDataCache: C:/Users/N00233944/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
