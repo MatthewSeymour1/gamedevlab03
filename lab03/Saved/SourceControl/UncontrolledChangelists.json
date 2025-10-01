@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/Input/Actions/pause.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
