@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/Input/Actions/pause.uasset",
-				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/Input/IMC_Default.uasset"
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/Input/IMC_Default.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/PlayerHealth.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/FirstPerson/Blueprints/Up_green_arrow.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/FirstPerson/Blueprints/Up_green_arrow_Sprite.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/minimap.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/minimapWidget.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/minimap_Mat.uasset",
+				"C:/Users/N00233944/gamedev/gamedevlab03/lab03/Content/FirstPerson/Blueprints/pauseMenu.uasset"
 			]
 		}
 	]
